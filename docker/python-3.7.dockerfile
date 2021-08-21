@@ -1,4 +1,4 @@
-FROM python:3.7
+FROM python:3.9.5
 
 RUN mkdir -p /model
 ENV MODEL_PATH /model
