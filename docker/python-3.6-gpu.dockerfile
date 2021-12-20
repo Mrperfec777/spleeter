@@ -1,4 +1,4 @@
-FROM python:3.6
+FROM python:3.7.10
 
 # FROM 9.2-base-ubuntu18.04
 # https://gitlab.com/nvidia/container-images/cuda/blob/ubuntu18.04/9.2/base/Dockerfile
